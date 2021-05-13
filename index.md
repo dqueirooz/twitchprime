@@ -1,8 +1,6 @@
 ## COMO SER UM SUB NO MEU CANAL DA TWITCH DE GRAÇA?
 
-![Image](https://github.com/dqueirooz/twitchprime/blob/gh-pages/amazon.png)
-
-![Image](https://github.com/dqueirooz/twitchprime/blob/gh-pages/twitch.png)
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/twitch.png)
 
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON
 
