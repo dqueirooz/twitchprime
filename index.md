@@ -1,12 +1,42 @@
-## Welcome to GitHub Pages
+## COMO SER UM SUB NO MEU CANAL DA TWITCH DE GRAÇA?
 
 You can use the [editor on GitHub](https://github.com/dqueirooz/twitchprime/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+
+1. Conecte sua conta da Amazon no Prime Gaming
+
+2.Acesse o canal: twitch.tv/dqueirooz
+
+3. Clique em 'Inscrição gratuita com o Prime'
+
+4. Pronto! 
+
+
+```
+
+### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON E NÃO TENHA CONTA NA TWITCH
+
+```markdown
+
+1. Conecte sua conta da Amazon no Prime Gaming
+
+2 . Crie sua conta na twitch
+
+3. Acesse o canal: twitch.tv/dqueirooz
+
+4. Clique em 'Inscrição'
+
+5. Clique em 'Inscrição gratuita com o Prime'
+
+6. Pronto! 
+
+```
+
 
 ```markdown
 Syntax highlighted code block
