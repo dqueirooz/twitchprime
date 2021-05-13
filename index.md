@@ -5,18 +5,23 @@
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON
 
 ```markdown
-
 1. Conecte sua conta da Amazon no Prime Gaming
+```
 
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial2-1024x388.jpg)
 
-2.Acesse o canal: twitch.tv/dqueirooz
+```markdown
+2.Acesse o canal: [Link](https://www.twitch.tv/dqueirooz)
+```
+
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial3.PNG)
 
 3. Clique em 'Inscrição gratuita com o Prime'
 
+
+
 4. Pronto! 
 
-```
 
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON E NÃO TENHA CONTA NA TWITCH
 
