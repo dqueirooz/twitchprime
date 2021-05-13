@@ -1,8 +1,8 @@
 ## COMO SER UM SUB NO MEU CANAL DA TWITCH DE GRAÇA?
 
-You can use the [editor on GitHub](https://github.com/dqueirooz/twitchprime/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://github.com/dqueirooz/twitchprime/blob/gh-pages/amazon.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/dqueirooz/twitchprime/blob/gh-pages/twitch.png)
 
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON
 
