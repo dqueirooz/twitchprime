@@ -9,7 +9,7 @@
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial2-1024x388.jpg)
 
 ```markdown
-2.Acesse o canal: [Link](https://www.twitch.tv/dqueirooz)
+2.Acesse o canal: https://www.twitch.tv/dqueirooz
 ```
 
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial3.PNG)
