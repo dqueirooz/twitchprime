@@ -25,6 +25,10 @@
 ```
 
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/Novo%20Projeto%20(1).png)
+  
+   
+   
+   
 
 
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON E NÃO TENHA CONTA NA TWITCH
