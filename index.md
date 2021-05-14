@@ -14,58 +14,52 @@
 
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial3.PNG)
 
+```markdown
 3. Clique em 'Inscrição gratuita com o Prime'
+```
 
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial4.PNG)
 
+```markdown
+4. Pronto! Agora você já é um Sub na nossa live!
+```
 
-4. Pronto! 
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/Novo%20Projeto%20(1).png)
 
 
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON E NÃO TENHA CONTA NA TWITCH
 
 ```markdown
-
 1. Conecte sua conta da Amazon no Prime Gaming
+```
 
 ![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial2-1024x388.jpg)
 
+```markdown
 2 . Crie sua conta na twitch
-
-3. Acesse o canal: twitch.tv/dqueirooz
-
-4. Clique em 'Inscrição'
-
-5. Clique em 'Inscrição gratuita com o Prime'
-
-6. Pronto! 
-
 ```
 
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial5-1024x650.jpg)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+3. Acesse o canal: twitch.tv/dqueirooz
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial3.PNG)
 
-### Jekyll Themes
+```markdown
+4. Clique em 'Inscrição'
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dqueirooz/twitchprime/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial7.PNG)
 
-### Support or Contact
+```markdown
+5. Clique em 'Inscrição gratuita com o Prime'
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/tutorial4.PNG)
+
+```markdown
+6. Pronto! Agora você já é um Sub na nossa live!
+```
+![Image](https://raw.githubusercontent.com/dqueirooz/twitchprime/gh-pages/Novo%20Projeto%20(1).png)
