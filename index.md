@@ -29,7 +29,8 @@
 ---
 ---
 ---
-
+  
+  
 ### CASO VOCÊ SEJA ASSINANTE DO PRIME VIDEO / AMAZON E NÃO TENHA CONTA NA TWITCH
 
 ```markdown
